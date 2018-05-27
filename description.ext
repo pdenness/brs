@@ -1,0 +1,10 @@
+respawn = "BASE";
+respawndelay = 10;
+author = "BangaBob"; 
+onLoadMission = "Battlefield Re-spawn System";
+onLoadName = "B.R.S";
+
+
+// REQUIRED FOR BRS DO NOT EDIT
+#include "BRS\defines.hpp"
+#include "BRS\dialogs.hpp"
